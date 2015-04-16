@@ -94,7 +94,6 @@ void DuLinkedListFree(DuLinkedList *L)
     free(L);
 }
 
-
 void DuAdvance(DuNode *node, int n)
 {
     (void) node;
